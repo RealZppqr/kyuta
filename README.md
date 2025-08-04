@@ -15,6 +15,8 @@
 
 </div>
 
+Need a simple bot? Try [Lawern](https://github.com/RealZppqr/lawern)
+
 ## 🚀 Overview
 
 **Kyuta** is a high-performance, enterprise-grade Discord bot engineered to handle millions of servers and users simultaneously. Built with modern TypeScript, ESM modules, and the lightning-fast Eris library, Kyuta represents the pinnacle of Discord bot architecture.
